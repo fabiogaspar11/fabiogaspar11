@@ -2,7 +2,7 @@
 
 <p align='center'>
   <img width="345px" height="150" src="https://github-readme-stats-theta-one-28.vercel.app/api?username=fabiogaspar11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="250px" height="150" src="https://github-readme-stats-theta-one-28.vercel.app/api/top-langs/?username=fabiogaspar11&theme=dracula"/>
+  <img width="250px" height="150" src="https://github-readme-stats-theta-one-28.vercel.app/api/top-langs/?username=fabiogaspar11&layout=compact&theme=dracula&langs_count=7"/>
 </p>
 
 <div align="center" style="display: inline_block"><br>
